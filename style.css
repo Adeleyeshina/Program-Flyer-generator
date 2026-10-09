@@ -619,3 +619,6 @@ input[type="range"] {
 .toast-act:hover {
   background: rgba(255, 255, 255, 0.32);
 }
+.foot span {
+  font-size: 9px;
+}
